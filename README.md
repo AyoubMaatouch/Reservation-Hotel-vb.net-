@@ -1,2 +1,9 @@
 # Reservation-Hotel-vb.net-
-a simple Software that helps you manage hotels ( Booking-Billing ...etc)
+a simple vb .net Software that helps you manage hotels ( Booking-Billing ...etc)
+
+
+
+
+Notice :
+
+to test the project please do make sure your system is able to read .accdb databases.
